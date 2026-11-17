@@ -1,5 +1,5 @@
 import unittest 
-from app import hello_world, welcome_message
+from app import hello_world 
 
 class TestHelloWorld(unittest.TestCase):
   
